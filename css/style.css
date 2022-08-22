@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/*  *-> 전체 선택자 */
+*{margin: 0; padding: 0; }
+body{background: #ddd;}
+ul.li{margin: 0; padding: 0; list-style-type: none;}
+#slide{position: absolute;
+    width: 600px; height: 444px;
+    border: 5px solid #fff;
+    box-shadow: 5px 5px 5px #999;
+top: 300px;
+left: 300px;
+}
+img {width: 600px; height: 444px;}
+/*  poa >> position: absolute; */
